@@ -9,7 +9,7 @@ Begins with a clear rationale and a defined objective, progressing to the applic
 + Polynomials and piecewise functions
 + Matrices operations
 + Calculus, derivitives and integration
-+ Rigorous roofs
++ Rigorous proofs
 + Frustums, limits and right angled triangle operations
 + Volume and surface area of revolution
 + Graphic display calculator
@@ -17,5 +17,5 @@ Begins with a clear rationale and a defined objective, progressing to the applic
 + Krita
 
 ## Total Length
-Word Count: 4710
+Word Count: 4710__
 Page Count: 24
