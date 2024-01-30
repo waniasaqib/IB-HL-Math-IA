@@ -1,5 +1,6 @@
 # IB-HL-Math-IA
-Mathematical Modeling &amp; Software-Driven Optimization of Watermelon Geometry
+Mathematical Modeling &amp; Software-Driven Optimization of Watermelon Geometry.\
+Achieved a level 6 (95%).
 
 ## Description
 Begins with a clear rationale and a defined objective, progressing to the application of two modeling techniques: the ellipses equation and polynomials. Subsequently, an intricate optimization process is undertaken to identify the most effective model. Once the optimal model is discerned through a meticulous evaluation, the volume of revolution is computed, and the corresponding surface area of revolution is derived and subsequently calculated. Following these computations, the quantity of servings is determined, culminating in a comprehensive conclusion and a thorough bibliography.
