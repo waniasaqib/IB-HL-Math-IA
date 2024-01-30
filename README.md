@@ -16,6 +16,6 @@ Begins with a clear rationale and a defined objective, progressing to the applic
 + Desmos
 + Krita
 
-## Total Length
+## Length
 Word Count: 4710 \
 Page Count: 24
