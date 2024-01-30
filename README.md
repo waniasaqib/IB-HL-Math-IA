@@ -17,5 +17,5 @@ Begins with a clear rationale and a defined objective, progressing to the applic
 + Krita
 
 ## Total Length
-Word Count: 4710__
+Word Count: 4710 <br />
 Page Count: 24
